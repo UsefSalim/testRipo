@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/UsefSalim/testRipo#readme",
   "dependencies": {
-    "ucef": "^1.0.6"
+    "ucef": "^1.0.7"
   },
   "devDependencies": {
     "eslint": "^7.19.0",
